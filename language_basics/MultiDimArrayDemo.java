@@ -9,6 +9,9 @@ package language_basics;
  *
  * @author DMyrzaka
  */
+class A {
+    int x=5;
+}
 public class MultiDimArrayDemo {
     public static void main(String[] args) {
         String[][] names = {
