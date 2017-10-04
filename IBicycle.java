@@ -19,5 +19,5 @@ public interface IBicycle {
 
     void applyBrakes(int decrement);
 
-    void apptest(int decr);
+
 }
